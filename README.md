@@ -17,3 +17,9 @@ How to run the Program
 --------------------------------------------------------------------------------------------------------
 1) Checkout the code to local system.
 2) Compile the code and run "DiceGame" java main application in Eclipse.
+
+Other way to run the program
+
+1) Download the jar "GameOfDice.jar" from the Repository
+2) Run from command prompt "java -jar GameOfDice.jar"
+3) Then follow the steps as per game.
